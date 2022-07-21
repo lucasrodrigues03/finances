@@ -35,6 +35,6 @@ Bibliotecas
 
 ## 💻 Projeto
 
-O dt-money é uma aplicação para controle de gastos financeiros, onde podemos cadastrar o que entra e o que sai,
+O dt-money é uma aplicação para controle de gastos financeiros, onde o usuário controla o que entra e o que sai,
 obtendo a descrição do produto e data .
 
