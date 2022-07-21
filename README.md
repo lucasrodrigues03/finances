@@ -14,6 +14,10 @@
 
 ## 🚀 Tecnologias
 
+
+https://user-images.githubusercontent.com/86750985/180116865-6455f7b0-5b1a-4a59-bd1f-93979d6d5b4f.mp4
+
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React.JS
